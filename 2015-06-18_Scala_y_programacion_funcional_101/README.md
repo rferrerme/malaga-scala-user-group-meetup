@@ -9,7 +9,7 @@ Notes from the `Malaga Scala User Group` meetup on 2015-06-18:
 
 **Disclaimer**: these are my own notes from the presentation.
 
-**Bonus**: I have ported the ideas to _Swift_ using a _playground_ (_OS X_ and _Xcode_ are required) ([download](Functional_Programming.playground.zip))
+**Bonus**: I have ported the ideas to _Swift_ using a _playground_ (_OS X_ and _Xcode_ are required) ([download](Functional_Programming.playground.zip?raw=true))
 
 ---
 
