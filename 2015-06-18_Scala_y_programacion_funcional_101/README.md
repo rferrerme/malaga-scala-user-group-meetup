@@ -9,7 +9,7 @@ Notes from the `Malaga Scala User Group` meetup on 2015-06-18:
 
 **Disclaimer**: these are my own notes from the presentation.
 
-**Bonus**: I have also ported the concept to _Swift_ using a _Playground_. _OS X_ and _Xcode_ are required. You need to download the folder `Functional_Programming.playground` and _OS X_ will show it as a package that you can open (you can just clone the repository in order to get it, for example).
+**Bonus**: I have ported the ideas to _Swift_ using a _playground_ (_OS X_ and _Xcode_ are required) ([download](Functional_Programming.playground.zip))
 
 ---
 
