@@ -13,6 +13,8 @@ Notes from the `Malaga Scala User Group` meetup on 2015-06-18:
 
 ---
 
+**Note**: [FP.sc](FP.sc?raw.true) is a Scala Worksheet version of this
+
 We will see functions as objects first:
 
 ```
